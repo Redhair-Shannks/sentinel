@@ -1,0 +1,24 @@
+Category,Type,Value,Frequency,Hearted
+Sentiment,Positive,,45,N/A
+Sentiment,Neutral,,28,N/A
+Sentiment,Negative,,27,N/A
+Top Liked Comment,Comment,Comment 48,500,0
+Top Liked Comment,Comment,Comment 34,499,1
+Top Liked Comment,Comment,Comment 77,499,0
+Top Liked Comment,Comment,Comment 65,499,0
+Top Liked Comment,Comment,Comment 84,496,1
+Top Replied Comment,Comment,Comment 39,49,0
+Top Replied Comment,Comment,Comment 58,48,0
+Top Replied Comment,Comment,Comment 97,48,0
+Top Replied Comment,Comment,Comment 49,47,0
+Top Replied Comment,Comment,Comment 86,47,0
+Word,Word,comment,100,N/A
+Word,Word,1,1,N/A
+Word,Word,2,1,N/A
+Word,Word,3,1,N/A
+Word,Word,4,1,N/A
+Word,Word,5,1,N/A
+Word,Word,6,1,N/A
+Word,Word,7,1,N/A
+Word,Word,8,1,N/A
+Word,Word,9,1,N/A
