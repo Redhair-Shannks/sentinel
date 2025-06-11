@@ -196,24 +196,10 @@ npm run format
 | Real-time Updates | ✅ | ⚠️ | ❌ |
 | Cost | Free | $$$ | $ |
 
-## 📚 Documentation
-
-- [API Reference](docs/API.md)
-- [User Guide](docs/USER_GUIDE.md)
-- [Architecture](docs/ARCHITECTURE.md)
-- [Contributing](CONTRIBUTING.md)
-
-## 🆘 Getting Help
-
-- 📖 [Documentation](docs/) - Comprehensive guides
-- 💬 [Discussions](https://github.com/yourusername/sentinel-video/discussions) - Ask questions
-- 🐛 [Issue Tracker](https://github.com/yourusername/sentinel-video/issues) - Report bugs
-- 🌟 [Show & Tell](https://github.com/yourusername/sentinel-video/discussions/categories/show-and-tell) - Share your projects
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/yourusername/sentinel-video)
-- [Live Demo](https://sentinel-video.vercel.app)
+- [GitHub Repository](https://github.com/Redhair-Shannks/sentinel-1)
 - [Changelog](CHANGELOG.md)
 
 ## 📄 License
