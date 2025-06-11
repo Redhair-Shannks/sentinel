@@ -64,7 +64,7 @@ https://github.com/user-attachments/assets/fca57a72-e87e-4459-bf3c-acde0a8f6208
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/sentinel-video.git
-cd sentinel-video
+cd kaam
 
 # Install dependencies
 npm install
