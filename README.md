@@ -12,7 +12,7 @@ Sentinel-Video is a cutting-edge platform that analyzes YouTube content and audi
 
 ## 🎥 Demo
 
-https://github.com/user-attachments/assets/0ec7066c-fc85-4d96-a471-2f20447be9bd
+https://github.com/user-attachments/assets/fca57a72-e87e-4459-bf3c-acde0a8f6208
 
 ## ✨ Key Features
 
